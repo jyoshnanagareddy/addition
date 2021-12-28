@@ -1,2 +1,3 @@
 # addition
-adding two numbers
+arithmetic operations
+werrtrtgygy
